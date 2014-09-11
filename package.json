@@ -1,0 +1,13 @@
+{
+    "name":    "dynamic-dns-route53",
+    "version": "0.0.1",
+    "description": "Provide easy access to route 53",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "*",
+        "aws-sdk": "*"
+    }
+
+}
